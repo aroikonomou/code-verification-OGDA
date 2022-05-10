@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%
-% Identity Check for the proof of OGDA in the constrained setting
+% Identity Check for the proof of OGDA in the constrained setting (showing non-negativity of Expression Target 1)
 % This code verifies an identity proposed in the following paper https://arxiv.org/abs/2204.09228
 % if the outcome of the program is 0, then the identity holds.
 %%%%%%%%%%%%%%%%%
